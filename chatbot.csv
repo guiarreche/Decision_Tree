@@ -1,0 +1,20 @@
+﻿ID;Pergunta;A;Nó A;B;Nó B
+1;SQFT LOT menor ou igual que 26747?;SIM;2;NÃO;3 
+2;PRICE menor ou igual que 216500?;SIM;16;NÃO;14  
+"3;SQFT LOT menor ou igual que 134677,5?;SIM;4;NÃO;15  "
+4;PRICE menor ou igual 769500?;SIM;5;NÃO;14 
+5;PRICE menor ou igual que 225250?;SIM;15;NÃO;6 
+6;SQFT ABOVE menor ou igual que 895?;SIM;7;NÃO;8 
+"7;BATHROOMS menor ou igual que 0,875?;SIM;9;NÃO;15 "
+"8;BATHROOMS menor ou igual que 3,25?;SIM;10;NÃO;14 "
+9;VIEW menor ou igual que 3?;SIM;16;NÃO;15 
+"10;VIEW menor ou igual que 2,5?;SIM;11;NÃO;12 "
+"11;SQFT LOT menor ou igual que 123392,5?;SIM;13;NÃO;17 "
+12;SQFT ABOVE menor ou igual que 1720?;SIM;16;NÃO;19 
+13;PRICE menor ou igual 314500?;SIM;18;NÃO;16 
+14;NÓ FOLHA;Esta Caro;;;
+15;NÓ FOLHA;Esta Barato;;;
+16;NÓ FOLHA;Esta Medio;;;
+"17;FLOORS menor ou igual que 1,75?;SIM;15;NÃO;16 "
+18;PRICE menor ou igual 306500?;SIM;16;NÃO;15 
+19;SQFT ABOVE menor ou igual que 2720?;SIM;14;NÃO;16 
