@@ -8,7 +8,7 @@ Project that simulates a decision tree to help the customer check house prices i
 
 HOW WE CREATED THE DECISION TREE
 
-We 
+We used 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
