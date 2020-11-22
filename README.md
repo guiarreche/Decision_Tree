@@ -16,3 +16,11 @@ USEFUL LINKS
 
 Links:
 The database used was found in this open directory using the zipcode: 98070 from the website [insert website]. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CONTRIBUTORS
+
+@guiarreche
+@Custodiovjoao
+@
